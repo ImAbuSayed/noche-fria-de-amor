@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-fria-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche fría de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-fria-de-amor/) |
+| **Get License** | [Request Licensing for Noche fría de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-fria-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche fría pide fuego, ven aquí
+> Tengo la botella lista y la mente pa' ti
+> Mami, tú eres la reina de toda la ciudad
+> Sube a la nave, vámonos a la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
