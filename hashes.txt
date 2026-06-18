@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche fría de amor
+
+This log tracks the cryptographic history and versioning for the song **Noche fría de amor** (noche-fria-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:24:15.504928 | `v1` | `fc833a176b7abf0f2fef53af4270313a88064e9625bba3e752c8e44125a111b0` | `fa262b8220cb270c08fdf616f5669a24d07ed94ae12d2691c29d054931d44db2` | `2026-06-18_noche-fria-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
